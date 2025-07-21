@@ -1,0 +1,7 @@
+key: 1
+Name: ram
+Age: 23
+address: kalanki
+contact no: 9876543210
+no of month to rent: 3
+total cost: 150000
